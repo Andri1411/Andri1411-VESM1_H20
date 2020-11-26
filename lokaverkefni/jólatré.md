@@ -1,2 +1,2 @@
 ## Jólatré svg skrá
-![jólatré2.svg
+![jólatré2.svg]
